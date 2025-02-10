@@ -28,3 +28,5 @@ Soft skills
 - Ответственность
 - Внимательность
 - Коммуникабельность
+
+Мой [профиль](https://ru.hexlet.io/u/x_jester_x) в Hexlet
